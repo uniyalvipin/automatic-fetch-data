@@ -35,7 +35,7 @@ def spider(comp_name):
         ret_list.append(email)
         return ret_list
     except:
-        a=[n,n]
+        a=['n','n']
         return a
 
 
